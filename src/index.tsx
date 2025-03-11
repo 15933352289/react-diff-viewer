@@ -333,6 +333,7 @@ class DiffViewer extends React.Component<ReactDiffViewerProps, ReactDiffViewerSt
       </td>
     );
     const isUnifiedViewWithoutLineNumbers = !splitView && !hideLineNumbers;
+    const dangkang123 = 45678;
     return (
       <tr
         key={`${leftBlockLineNumber}-${rightBlockLineNumber}`}
