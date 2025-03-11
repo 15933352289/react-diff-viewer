@@ -1,8 +1,9 @@
-require('./style.scss');
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 
 import ReactDiff, { DiffMethod } from '../../lib/index';
+
+require('./style.scss');
 
 const oldJs = require('./diff/javascript/old.rjs').default;
 const newJs = require('./diff/javascript/new.rjs').default;
@@ -57,7 +58,6 @@ class Example extends React.Component<{}, ExampleState> {
   };
 
   public render(): JSX.Element {
-
     return (
       <div className="react-diff-viewer-example">
         <div className="radial"></div>
