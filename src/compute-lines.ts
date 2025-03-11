@@ -10,6 +10,8 @@ export enum DiffType {
 
 export const dangkang123 = 45678;
 
+export const benli123 = 45678;
+
 // See https://github.com/kpdecker/jsdiff/tree/v4.0.1#api for more info on the below JsDiff methods
 export enum DiffMethod {
   CHARS = 'diffChars',
