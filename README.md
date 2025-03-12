@@ -364,3 +364,5 @@ Check package.json for more build scripts.
 ## License
 
 MIT
+
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/15933352289/react-diff-viewer?utm_source=oss&utm_medium=github&utm_campaign=15933352289%2Freact-diff-viewer&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
